@@ -16,8 +16,6 @@ Beeper::Beeper() {
 
 }
 
-
-
 void Beeper::SetBeepSpeed(byte speed) {
 	G_Beep_Speed = speed;
 }
